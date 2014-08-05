@@ -1,7 +1,9 @@
 #include<iostream>
+#include<stdio.h>
 using namespace std;
 int main()
 {
+int a,b,c;
 cout<<"enter the two numbers to be added";
 cin>>a>>b;
 cout<<"result is";

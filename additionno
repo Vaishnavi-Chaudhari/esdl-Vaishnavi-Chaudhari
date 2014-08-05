@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"enter the two numbers to be added";
+cin>>a>>b;
+cout<<"result is";
+cin<<c;
+c=a+b;
+return 0;
+}
